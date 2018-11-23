@@ -1,4 +1,8 @@
 # ModMenuGTA5-1.44
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 My old pasted mod menu updated to online version 1.44
 Undetected to use online, and all detected features has been removed/commented out.
 Used it for a few months, so shouldn't by a problem. Change some code by adding, removing features and so on just to be safe.
