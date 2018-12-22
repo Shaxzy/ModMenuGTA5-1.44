@@ -9,7 +9,7 @@ Used it for a few months, so shouldn't by a problem. Change some code by adding,
 
 ## Updated version
 https://www.unknowncheats.me/forum/grand-theft-auto-v/312926-elegence-gta-1-46-a.html
-Credits: michael14381
+- Credits: michael14381
 
 ## How to use?
 - Download this and compile it by using Visual Studio (or another compiler)
