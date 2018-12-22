@@ -16,4 +16,3 @@ Used it for a few months, so shouldn't by a problem. Change some code by adding,
 ## Want better menu?
 - Buy our updated menu at http://ev0lution.xyz/ or https://selly.gg/@Shaxzy
 - Costs 10 USD
-- 25% of the income goes to cancer support
